@@ -2,7 +2,7 @@
 
 #### Html, css and JS Exercise for Epicodus, June 2016
 
-#### By **Meaghan Jones and Bo Zhang**
+#### By **Meaghan Jones and Bo Zhao**
 
 ## Description
 
@@ -26,6 +26,7 @@ If you have any issues, questions, or suggestions for improvements please send a
 * html
 * css
 * JavaScript
+* JQuery
 
 ### License
 
